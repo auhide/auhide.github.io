@@ -117,7 +117,19 @@ a, a:link, a:visited, a:focus, a:active{
     border-radius: 0 !important;
 }
 
+#mjumbo2{
+    margin-bottom: 0;
+    background-color: #94090D;
+    border-radius: 0 !important;
+}
+
 #jumbo3{
+    margin-bottom: 0;
+    background-color: #FCBE4A;
+    border-radius: 0 !important;
+}
+
+#mjumbo3{
     margin-bottom: 0;
     background-color: #FCBE4A;
     border-radius: 0 !important;
@@ -129,13 +141,31 @@ a, a:link, a:visited, a:focus, a:active{
     border-radius: 0 !important;
 }
 
+#mjumbo4{
+    margin-bottom: 0;
+    background-color: #203C3F;
+    border-radius: 0 !important;
+}
+
 #jumbo5{
     margin-bottom: 0;
     background-color: #A0CE0D;
     border-radius: 0 !important;
 }
 
+#mjumbo5{
+    margin-bottom: 0;
+    background-color: #A0CE0D;
+    border-radius: 0 !important;
+}
+
 #jumbo6{
+    margin-bottom: 15%;
+    background-color: #14130F;
+    border-radius: 0 !important;
+}
+
+#mjumbo6{
     margin-bottom: 15%;
     background-color: #14130F;
     border-radius: 0 !important;
