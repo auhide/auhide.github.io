@@ -384,7 +384,13 @@ header nav ul li a.active {
 
 .italic{ font-style: italic; }
 
+.mobile{ display: none; }
+
 @media (max-width: 860px) {
+
+    .mobile{ display: block; }
+
+    .computer{ display: none; }
 
     .header{  position: fixed; }
 
