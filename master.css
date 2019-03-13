@@ -392,6 +392,9 @@ header nav ul li a.active {
 
     .computer{ display: none; }
 
+    .endlogo1{ width: 44%; }
+    .endlogo2{ width: 60%; margin-left: 60%; }
+
     .header{  position: fixed; }
 
     header {
