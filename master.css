@@ -328,7 +328,7 @@ i{
 
 /* The two logos at the end */
 .endlogo1{ width: 22%; opacity: 0.5; transition: 300ms; margin-left: 30%; margin-top: -50%; margin-bottom: 10%; margin-left: 120%;}
-.endlogo2{ width: 30%; opacity: 0.5; transition: 300ms; margin-left: 30%; margin-top: -50%; margin-bottom: 10%; margin-left: 40%;}
+.endlogo2{ filter: invert(100%); width: 30%; opacity: 0.5; transition: 300ms; margin-left: 30%; margin-top: -50%; margin-bottom: 10%; margin-left: 40%;}
 
 .endlogo1:hover { opacity: 1; }
 .endlogo2:hover { opacity: 1; }
