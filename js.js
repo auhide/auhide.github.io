@@ -30,3 +30,10 @@ $(document).ready(
     })
   }
 )
+
+// Hide the Navbar on mobile when a link is clicked.
+jQuery(document).ready(function($){
+  $('.navtext').on('click', function() {
+      $(".menu-toggle").trigger('click');
+  });
+});
